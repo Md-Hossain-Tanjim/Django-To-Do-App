@@ -37,7 +37,7 @@ bash
 python manage.py createsuperuser --username Tanjim --email admin@example.com
 # When prompted, enter the password: 123
 
-admin.site.register(Task) # Register the Post model Create a superuser:
+admin.site.register(Task) # Register the Task model Create a superuser:
 Start the development server:
 
 bash
